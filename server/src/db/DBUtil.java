@@ -2,7 +2,7 @@ package db;
 
 public class DBUtil {
 	private static final String HOSTNAME = "localhost";
-	private static final String PORT_NUM = "3306";
+	private static final String PORT_NUM = "10000";
 	private static final String USERNAME = "root";
 	private static final String PASSWORD = "root";
 	
